@@ -1,0 +1,94 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 20, 2019
+	Yesterday :Not started
+	Today     :Understand the code
+	Obstacles :To much code
+
+Nov 21, 2019
+	Yesterday :Understand the code
+	Today     :Doing UserStory3.1
+	Obstacles :Haven't figured out the solution.
+
+Nov 22, 2019
+	Yesterday :Doing UserStory3.1
+	Today     :Finish 3.1 and in progress of 3.2
+	Obstacles :The issue of understanding paintsavefileformat.txt
+	
+Nov 23, 2019
+	Yesterday :Finish 3.1 and in progress of 3.2
+	Today     :Finish UserStory3.2, and fix bug in UserStory3.1
+	Obstacles :Still has one bug in 3.2 for the Polyline save. The rest are all good.
+
+Nov 24, 2019
+	Yesterday :Finish UserStory3.2, and fix bug in UserStory3.1
+	Today     :Working on UserStory3.3
+	Obstacles :It is not hard but complicated, need to write lots of codes
+
+Nov 25, 2019
+	Yesterday :Working on UserStory3.3
+	Today     :Still working on UserStory3.3
+	Obstacles :Have issue about whether we need to save the field of the command to the arraylist
+
+Nov 26, 2019
+	Yesterday :Working on UserStory3.3
+	Today     :Finally finish working UserStory3.3
+	Obstacles :Did it for one evening and afternoon, and all the test case passes
+	
+Nov 27, 2019
+	Yesterday :Finally finish working UserStory3.3
+	Today     :Learning floating point
+	Obstacles :Some misunderstanding of floating point  
+	
+Nov 28, 2019
+	Yesterday :Learning floating point
+	Today     :Finish floating point part
+	Obstacles :Have issue about denormalized number
+	
+Nov 29, 2019
+	Yesterday :Finish floating point part
+	Today     :thinking about visitor design pattern
+	Obstacles :Have no clue about how to use visitor pattern in this program.
+
+Nov 30, 2019
+	Yesterday :thinking about visitor design pattern
+	Today     :Did some attempt on bug 3.4
+	Obstacles :don't know if I am in the right way for this problem
+
+Dec 1, 2019
+	Yesterday :Did some attempt on bug 3.4
+	Today     :fix bug in UserStory3.1
+	Obstacles :One small bug makes me fix for 1 hour
+	
+Dec 2, 2019
+	Yesterday :fix bug in UserStory3.1
+	Today     :still in process on visitor
+	Obstacles :have some clue and I think we need to remove some design pattern
+	           still did not finish it.
+
+Dec 3, 2019
+	Yesterday :still in process on visitor
+	Today     :final debug on the project
+	Obstacles :No
+
+Dec 4, 2019
+	Yesterday :final debug on the project
+	Today     :Serious attempt on bug 3.4 on branch bug3.40xuwencai
+	Obstacles :No
+	
+Dec 5, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
